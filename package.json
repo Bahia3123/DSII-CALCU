@@ -14,5 +14,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bahia3123/DSII-CALCU.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bahia3123/DSII-CALCU/issues"
+  },
+  "homepage": "https://github.com/Bahia3123/DSII-CALCU#readme",
   "description": ""
 }
